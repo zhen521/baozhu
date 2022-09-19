@@ -1,8 +1,8 @@
-baseurl: https://lmm.pages.dev
+baseurl: https://baozhu.pages.dev
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
-title: Example Site
+title: BaoZhu
 
 # Change it to your Disqus shortname before using
 disqusShortname: hugo-theme-stack
