@@ -3,7 +3,7 @@ title: 宝珠
 description: 她是天使
 date: 2022-09-19
 slug: test-chinese
-image: helena-hertz-wWZzXlDpMog-unsplash.jpg
+image: ds-2.png
 categories:
     - Test
     - 测试
